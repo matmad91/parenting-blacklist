@@ -1,9 +1,6 @@
 # ParentingBlocklist
-#
-# 
 # Version 17 Jul 2021
-
-#Ubranka dziecięce
+# Ubranka dziecięce
 0.0.0.0 endo.pl
 0.0.0.0 fazymazy.com
 0.0.0.0 coccodrillo.eu
@@ -30,7 +27,6 @@
 0.0.0.0 baby-center.com.pl
 0.0.0.0 limango.pl
 0.0.0.0 okaidi.pl
-
 #Produkty spożywcze
 0.0.0.0 rozszerzaniediety.pl
 0.0.0.0 alaantkoweblw.pl
