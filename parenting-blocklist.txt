@@ -1,0 +1,40 @@
+# ParentingBlocklist
+#
+# 
+# Version 17 Jul 2021
+
+
+0.0.0.0 endo.pl
+0.0.0.0 fazymazy.com
+0.0.0.0 coccodrillo.eu
+0.0.0.0 mamaville.pl
+0.0.0.0 pinokio.net.pl
+0.0.0.0 51015kids.eu
+0.0.0.0 petit-bateau.pl
+0.0.0.0 bamarnicol.pl
+0.0.0.0 primark.com
+0.0.0.0 okaidi.pl
+0.0.0.0 fazikids.pl
+0.0.0.0 ilovemilk.pl
+0.0.0.0 smyk.com
+0.0.0.0 wyprawkowo.com
+0.0.0.0 szykownamama.pl
+0.0.0.0 robik.radom.pl
+0.0.0.0 szafa-bobasa.pl
+0.0.0.0 txm.pl
+0.0.0.0 eevi.pl
+0.0.0.0 szipszop.pl
+0.0.0.0 butydlamalucha.pl
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
