@@ -27,6 +27,9 @@
 0.0.0.0 butydlamalucha.pl
 0.0.0.0 nodik.pl
 0.0.0.0 smykoland.pl
+0.0.0.0 baby-center.com.pl
+0.0.0.0 limango.pl
+0.0.0.0 okaidi.pl
 
 #Produkty spożywcze
 0.0.0.0 rozszerzaniediety.pl
