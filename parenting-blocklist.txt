@@ -3,7 +3,7 @@
 # 
 # Version 17 Jul 2021
 
-
+#Ubranka dziecięce
 0.0.0.0 endo.pl
 0.0.0.0 fazymazy.com
 0.0.0.0 coccodrillo.eu
@@ -25,16 +25,33 @@
 0.0.0.0 eevi.pl
 0.0.0.0 szipszop.pl
 0.0.0.0 butydlamalucha.pl
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
+0.0.0.0 nodik.pl
+0.0.0.0 smykoland.pl
+
+#Produkty spożywcze
+0.0.0.0 rozszerzaniediety.pl
+0.0.0.0 alaantkoweblw.pl
+0.0.0.0 dziecizdrowoodzywione.pl
+0.0.0.0 zdrowystartwprzyszlosc.pl
+0.0.0.0 aptekadziecka.pl
+0.0.0.0 1000dni.pl
+0.0.0.0 marketbio.pl
+0.0.0.0 helpa.pl
+0.0.0.0 mjakmama24.pl
+0.0.0.0 biogo.pl
+0.0.0.0 biosklep.com.pl
+0.0.0.0 zakreconysloik.com.pl
+0.0.0.0 szpinakrobibleee.pl
+0.0.0.0 bee.pl
+0.0.0.0 organic24.pl
+0.0.0.0 dziecisawazne.pl
+0.0.0.0 mlekolandia.pl
+0.0.0.0 biostyle.pl
+0.0.0.0 drogeria-ekologiczna.pl
+0.0.0.0 pyszneeko.pl
+0.0.0.0 mamotoja.pl
+0.0.0.0 mamalekarz.pl
+0.0.0.0 biofamily24.pl
+0.0.0.0 sosrodzice.pl
+0.0.0.0 kidy.pl
+
