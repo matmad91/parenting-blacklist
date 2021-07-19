@@ -34,6 +34,8 @@
 0.0.0.0 madarbaby.pl
 0.0.0.0 okiemmaluszka.pl
 0.0.0.0 calineczka.pl
+#odziezowe
+0.0.0.0 hm.com
 0.0.0.0 top-kids.pl
 0.0.0.0 zabawkaiwyprawka.pl
 0.0.0.0 marko-baby.pl
