@@ -4,6 +4,7 @@
 0.0.0.0 endo.pl
 0.0.0.0 fazymazy.com
 0.0.0.0 coccodrillo.eu
+0.0.0.0 pl.coccodrillo.eu
 0.0.0.0 mamaville.pl
 0.0.0.0 pinokio.net.pl
 0.0.0.0 51015kids.eu
